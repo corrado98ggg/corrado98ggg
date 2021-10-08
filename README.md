@@ -11,6 +11,7 @@
 🔭 I’m currently working like deku ...
 <br>
 ![Alt Text](https://giphy.com/gifs/reaction-mood-9Y1wF3wx1Dex8w9wxL.gif)
+<img src="https://giphy.com/gifs/reaction-mood-9Y1wF3wx1Dex8w9wxL.gif" width="40" height="40" />
 
 <!--
 **corrado98ggg/corrado98ggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
