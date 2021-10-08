@@ -10,7 +10,7 @@
 <br>
 🔭 I’m currently working like deku ...
 <br>
-![Alt Text](https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524/scale-to-width/755.gif)
+![Alt Text](https://giphy.com/gifs/reaction-mood-9Y1wF3wx1Dex8w9wxL.gif)
 
 <!--
 **corrado98ggg/corrado98ggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
