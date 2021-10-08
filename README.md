@@ -9,7 +9,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corrado98ggg&layout=compact&theme=onedark&show)
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corrado98ggg&theme=onedark&show)
 
 <br>
 🔭 I’m currently working like deku ...
