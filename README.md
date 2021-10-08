@@ -1,6 +1,6 @@
 ### Hi there 👋 (✨ _special_ ✨ repository)
 <br>
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 <br>
       
  <!-- ![](https://github-readme-stats.vercel.app/api?username=garrati-0k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) -->
