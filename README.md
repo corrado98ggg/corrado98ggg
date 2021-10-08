@@ -1,6 +1,7 @@
 ### Hi there 👋 (✨ _special_ ✨ repository)
 <br>
 - 🌱 I’m currently learning ...
+<br>
       
  <!-- ![](https://github-readme-stats.vercel.app/api?username=garrati-0k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) -->
       
@@ -8,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corrado98ggg&layout=compact&theme=onedark&show)
 <br>
 🔭 I’m currently working like deku ...
-![](https://myheroacademia.fandom.com/f/p/4400000000001264689/r/4400000000006566609.gif)
+![](https://static.wikia.nocookie.net/ab108fb9-54e3-42a3-99dc-1f0c09fc4524/scale-to-width/755.gif)
 
 <!--
 **corrado98ggg/corrado98ggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
