@@ -10,7 +10,7 @@
 <br>
 🔭 I’m currently working like deku ...
 <br>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://steamcommunity.com/sharedfiles/filedetails/?id=1227973002.gif)
 
 <!--
 **corrado98ggg/corrado98ggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
